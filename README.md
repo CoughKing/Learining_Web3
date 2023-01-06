@@ -1,13 +1,4 @@
-# Sample Hardhat Project
-Iam Kinda Learning
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+As You can See,
+This is Just the Upgraded Version of same project I did on UwU
+As Iam Learning Solidity, Iam also improving my hardhat knowledge to deploy contracts..
+Keep learning MoFos..
